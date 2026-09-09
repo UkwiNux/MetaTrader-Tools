@@ -1,12 +1,9 @@
 //+------------------------------------------------------------------+
 //|                                           EMTOrdersUtility.mq5   |
-//|                   Copyright 2026, EliteMonSunTraders AI Division |
-//|                                        Developer:Urayayi Kwinika |
-//|                                          https://www.elitemt.com |
+//|                                  Copyright 2026, Urayayi Kwinika |
 //+------------------------------------------------------------------+
 
-#property copyright "Copyright 2026, EliteMonSunTraders AI Division"
-#property link      "https://www.elitemt.com"
+#property copyright "Copyright 2026, Urayayi Kwinika"
 #property version   "2.2"
 #property description "Real-Time Trade Monitor & Symbol Changer, that shows your running P&L, Trade Count, and Trade Type"
 #property strict
